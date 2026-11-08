@@ -1,5 +1,14 @@
 # Signal — Product Feedback Inbox
 
+<!-- hanzo-badges -->
+<p align="left">
+  <a href="https://platform.hanzo.ai/new?repo=https%3A%2F%2Fgithub.com%2Fhanzo-apps%2Ffeedback&template=feedback"><img src="https://gallery.hanzo.ai/deploy.svg" alt="Deploy to Hanzo" height="32" /></a>
+  <a href="https://hanzo.ai/chat?template=feedback"><img src="https://gallery.hanzo.ai/badges/edit-in-hanzo.svg" alt="Edit in Hanzo.ai" height="32" /></a>
+  <a href="https://gallery.hanzo.ai/templates/feedback"><img src="https://gallery.hanzo.ai/badges/live-preview.svg" alt="Live Preview" height="32" /></a>
+  <a href="https://gallery.hanzo.ai/llms/feedback/LLM.md"><img src="https://gallery.hanzo.ai/badges/llm-md.svg" alt="LLM.md Playbook" height="32" /></a>
+</p>
+<!-- /hanzo-badges -->
+
 A real, buildable Hanzo app: a two-pane triage inbox for incoming product
 feedback. Feedback lands as items; you read each one, tag it by **theme** and
 **sentiment**, and mark it **triaged** or **archived** — a focused, keyboard-inbox
